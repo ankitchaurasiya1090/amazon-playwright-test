@@ -42,14 +42,6 @@ This project demonstrates automated test cases using **Playwright** for an e-com
 - 🔵 Node.js
 
 ---
-
-## ▶️ How to Run
-
-```bash
-npm install
-npx playwright install
-npx playwright test --project=chromium
-
 📂 Project Structure
 amazon-playwright-test/
 ├── tests/
@@ -65,5 +57,10 @@ Thank you for taking the time to review this assignment.
 
 I truly appreciate the opportunity to showcase my skills in automation testing, problem-solving, and real-world debugging.
 
+## ▶️ How to Run
 
+```bash
+npm install
+npx playwright install
+npx playwright test --project=chromium
                                                    
