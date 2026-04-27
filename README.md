@@ -50,9 +50,7 @@ npm install
 npx playwright install
 npx playwright test --project=chromium
 
-## 📂 Project Structure
-
-```bash
+📂 Project Structure
 amazon-playwright-test/
 ├── tests/
 │   ├── iphone.spec.js
@@ -61,19 +59,11 @@ amazon-playwright-test/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
----
-
-## 🙏 Thank You
+🙏 Thank You
 
 Thank you for taking the time to review this assignment.
 
 I truly appreciate the opportunity to showcase my skills in automation testing, problem-solving, and real-world debugging.
 
----
 
-## 👨‍💻 Author
-
-**Ankit Chaurasiya**  
-
----
+                                                   
