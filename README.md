@@ -42,15 +42,18 @@ This project demonstrates automated test cases using **Playwright** for an e-com
 - 🔵 Node.js
 
 ---
-📂 Project Structure
+## 📂 Project Structure
+
+```text
 amazon-playwright-test/
-├── tests/
-│   ├── iphone.spec.js
-│   └── galaxy.spec.js
-├── playwright.config.js
-├── package.json
-├── package-lock.json
-└── README.md
+|-- tests/
+|   |-- iphone.spec.js
+|   |-- galaxy.spec.js
+|-- playwright.config.js
+|-- package.json
+|-- package-lock.json
+|-- README.md
+
 🙏 Thank You
 
 Thank you for taking the time to review this assignment.
