@@ -1,31 +1,50 @@
-# Playwright Automation Assignment
+# 🚀 Playwright Automation Assignment
 
-## Overview
-This project contains automated test cases using Playwright.
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green?style=for-the-badge&logo=playwright)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## Test Cases
-1. Search iPhone and add to cart
-2. Search Samsung Galaxy and add to cart
+---
 
-## Features
+## 📌 Overview
+This project demonstrates automated test cases using **Playwright** for an e-commerce workflow.
+
+---
+
+## 🧪 Test Scenarios
+
+### 📱 Test Case 1
+- Search **iPhone**
 - Extract product price
-- Add product to cart
-- Parallel execution
+- Add to cart
 
-## Tech Stack
-- Playwright
-- JavaScript
+### 📱 Test Case 2
+- Search **Samsung Galaxy**
+- Extract product price
+- Add to cart
 
-## How to Run
+---
 
-1. Install dependencies:
+## ⚙️ Features
+
+✨ Automated browser interactions  
+💰 Price extraction  
+🛒 Add-to-cart flow  
+⚡ Parallel test execution  
+🧠 Real-world problem handling  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🟢 Playwright
+- 🟡 JavaScript
+- 🔵 Node.js
+
+---
+
+## ▶️ How to Run
+
+### 1️⃣ Install dependencies
+```bash
 npm install
-
-2. Install browsers:
-npx playwright install
-
-3. Run tests:
-npx playwright test --project=chromium
-
-## Note
-Due to anti-bot protections on Amazon, a demo e-commerce site (demoblaze.com) was used to demonstrate the automation workflow reliably.
